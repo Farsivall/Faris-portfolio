@@ -152,7 +152,7 @@ export default function Hero() {
               </p>
 
               <p className="text-sm sm:text-base md:text-lg text-muted-grey leading-relaxed">
-                Beyond academics, you'll find me <span className="font-medium text-navy">exploring new places</span>, <span className="font-medium text-navy">staying active at the gym</span>, or <span className="font-medium text-navy">on the court playing tennis and basketball</span>.
+                Beyond academics, you&apos;ll find me <span className="font-medium text-navy">exploring new places</span>, <span className="font-medium text-navy">staying active at the gym</span>, or <span className="font-medium text-navy">on the court playing tennis and basketball</span>.
               </p>
             </div>
           </motion.div>
@@ -168,7 +168,7 @@ export default function Hero() {
               onClick={() => setShowCurrentProjects(true)}
               className="inline-flex items-center gap-2 px-4 sm:px-6 py-2.5 sm:py-3 bg-navy text-white rounded-full text-sm sm:text-base font-semibold hover:bg-navy/90 transition-colors shadow-md hover:shadow-lg"
             >
-              <span className="hidden sm:inline">What I'm Currently Working On</span>
+              <span className="hidden sm:inline">What I&apos;m Currently Working On</span>
               <span className="sm:hidden">Current Projects</span>
               <Target className="w-4 h-4 flex-shrink-0" />
             </button>
@@ -286,7 +286,7 @@ export default function Hero() {
                         <span className="text-xs sm:text-sm font-semibold">Developing</span>
                       </div>
                       <p className="text-xs sm:text-sm md:text-base text-muted-grey leading-relaxed">
-                        Building an AI-powered UCAS application advisor using RAG (Retrieval-Augmented Generation) trained on successful personal statements. Designed to outperform simple "ChatGPT wrappers" with domain-specific knowledge and context-aware guidance.
+                        Building an AI-powered UCAS application advisor using RAG (Retrieval-Augmented Generation) trained on successful personal statements. Designed to outperform simple &quot;ChatGPT wrappers&quot; with domain-specific knowledge and context-aware guidance.
                       </p>
                     </div>
                   </div>
@@ -321,7 +321,7 @@ export default function Hero() {
                       <h3 className="text-base sm:text-lg md:text-xl font-bold text-navy mb-1">McKinsey Forward Programme</h3>
                       <p className="text-xs sm:text-sm text-muted-grey mb-2 sm:mb-3">Professional Development Programme</p>
                       <p className="text-xs sm:text-sm md:text-base text-muted-grey leading-relaxed">
-                        Participating in McKinsey's Forward Programme, a professional development initiative focused on building essential skills for the future of work, including digital fluency, leadership, and problem-solving capabilities.
+                        Participating in McKinsey&apos;s Forward Programme, a professional development initiative focused on building essential skills for the future of work, including digital fluency, leadership, and problem-solving capabilities.
                       </p>
                     </div>
                   </div>
@@ -340,7 +340,7 @@ export default function Hero() {
                         <span className="text-xs sm:text-sm font-semibold">7/8 Modules Finished</span>
                       </div>
                       <p className="text-xs sm:text-sm md:text-base text-muted-grey leading-relaxed">
-                        Completing Google's Data Analytics Professional Certificate, covering data cleaning, analysis, visualization, and R programming. Nearly finished with 7 out of 8 modules completed.
+                        Completing Google&apos;s Data Analytics Professional Certificate, covering data cleaning, analysis, visualization, and R programming. Nearly finished with 7 out of 8 modules completed.
                       </p>
                     </div>
                   </div>
