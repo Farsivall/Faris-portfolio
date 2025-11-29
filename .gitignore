@@ -30,6 +30,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# app assets (should only be in public)
+/app/assets
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts

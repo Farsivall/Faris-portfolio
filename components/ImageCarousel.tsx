@@ -24,7 +24,7 @@ export default function ImageCarousel() {
     { src: '/assets/IMG_1278.jpg', location: 'Kinder Scout', date: 'Feb 2025' },
     { src: '/assets/IMG_1279.jpg', location: 'Mamtoor', date: 'Feb 2025' },
     { src: '/assets/IMG_1280.jpg', location: 'Genova', date: 'Feb 2025' },
-    { src: '/assets/IMG_1281 2.jpg', location: 'La Rosierre', date: 'Dec 2024' },
+    { src: '/assets/IMG_1281%202.jpg', location: 'La Rosierre', date: 'Dec 2024' },
     { src: '/assets/IMG_1283.jpg', location: 'Bristol', date: 'March 2025' },
     { src: '/assets/IMG_1284.jpg', location: 'Sidmouth', date: 'Nov 2025' },
     { src: '/assets/IMG_2947.JPG', location: 'Lake Lecco', date: 'Feb 2025' },
